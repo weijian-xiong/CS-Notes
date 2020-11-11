@@ -6,18 +6,33 @@
 
 ## Other
 How to change default terminal path:<br>
-![截屏2019-11-2703 33 53](https://user-images.githubusercontent.com/24274444/98751558-f13f1d80-2385-11eb-88b1-0f7f61a349e0.png)
-
-Zsh permission denied:
-<img width="1440" alt="Screen Shot 2020-01-23 at 7 30 53 PM" src="https://user-images.githubusercontent.com/24274444/98752225-62cb9b80-2387-11eb-9b73-cd0cf70c2d4d.png">
-
-Mounty for NTFS:
+zsh shell:
 ```
-brew cask install mounty
+vim ~/.zshrc
+```
+bash shell:
+```
+vim ~/.bash_profile
+```
+Then add this line in corresponding file:
+```
+cd /User/xio/Desktop
 ```
 Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
  
 [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+
+## Installation
+Mounty for NTFS:
+```
+brew cask install mounty
+```
+
+## Solution
+zsh: permission denied: ./file.bat
+```
+chmod +x ./file.bat
+```
 
 ## Web Page
 [极客学院](https://www.jikexueyuan.com/)<br>
