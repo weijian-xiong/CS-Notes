@@ -1,5 +1,5 @@
 # CS Notes
- A collection of Computer Science notes
+ A collection of Computer Science notes :bear:
  
 ## Assembly
 [Creating your own operating system](http://createyourownos.blogspot.com/)
