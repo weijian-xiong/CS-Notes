@@ -51,6 +51,7 @@ chmod +x ./file.bat
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
 [How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
 [App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
+
 ### Algorithm
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
 [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
@@ -58,6 +59,7 @@ chmod +x ./file.bat
 
 ### Github
 [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+[Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
 [Github Online IDE](https://github.com/features/codespaces)<br>
 
 ## Course Material
