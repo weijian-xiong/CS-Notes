@@ -2,8 +2,8 @@
  A collection of Computer Science notes :bear:
  
 ## Assembly
-[Creating your own operating system](http://createyourownos.blogspot.com/)
-
+[Creating your own operating system](http://createyourownos.blogspot.com/)<br>
+[16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 ## Other
 How to change default terminal path:<br>
 zsh shell:
@@ -48,3 +48,6 @@ chmod +x ./file.bat
 ## Course Material
 [Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
 [Discrete Mathematics](https://books.google.com/books?id=6cMSAAAAQBAJ&pg=PA43&lpg=PA43&dq=if+s+is+a+tautology+and+R+is+a+contradiction+what+is+the+truth+value+of+following&source=bl&ots=7LWfF8dGpP&sig=u9V166ISijvcvSfhRIxZ-OPn-iI&hl=en&sa=X&ved=0ahUKEwirvLOevIDLAhVD4CYKHcbWBmAQ6AEIQjAG#v=onepage&q=if%20s%20is%20a%20tautology%20and%20R%20is%20a%20contradiction%20what%20is%20the%20truth%20value%20of%20following&f=false)<br>
+[Solutions Manual for Languages and Machines: An Introduction to the Theory of Computer Science Third Edition](https://cdn.manesht.ir/3252___Sudkamp-Solutions-3rd.pdf)<br>
+[Processing Unit](http://web.cecs.pdx.edu/~zeshan/ece341_lecture10a.pdf)<br>
+[Interface circuits](http://www.idc-online.com/technical_references/pdfs/information_technology/Interface_circuits_%20i.pdf)<br>
