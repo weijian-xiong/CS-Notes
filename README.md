@@ -35,3 +35,6 @@ Mounty for NTFS:
 brew cask install mounty
 ```
 Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
+
+Keyboard shortcuts in Terminal on Mac: 
+[Apple support](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
