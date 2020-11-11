@@ -18,3 +18,10 @@ brew cask install mounty
 Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
  
 [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+
+## Web pages
+[Snap](https://snap.berkeley.edu/snap/snap.html)<br>
+
+## Course material
+[Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
+[Discrete Mathematics](https://books.google.com/books?id=6cMSAAAAQBAJ&pg=PA43&lpg=PA43&dq=if+s+is+a+tautology+and+R+is+a+contradiction+what+is+the+truth+value+of+following&source=bl&ots=7LWfF8dGpP&sig=u9V166ISijvcvSfhRIxZ-OPn-iI&hl=en&sa=X&ved=0ahUKEwirvLOevIDLAhVD4CYKHcbWBmAQ6AEIQjAG#v=onepage&q=if%20s%20is%20a%20tautology%20and%20R%20is%20a%20contradiction%20what%20is%20the%20truth%20value%20of%20following&f=false)<br>
