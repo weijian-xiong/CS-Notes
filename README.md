@@ -32,7 +32,7 @@ brew cask install mounty
 [VirtualBox安装Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 [YouTube-dl](https://youtube-dl.org/)<br>
 
-## Solution
+## Issue
 zsh: permission denied: ./file.bat
 ```
 chmod +x ./file.bat
