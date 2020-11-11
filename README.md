@@ -57,6 +57,7 @@ chmod +x ./file.bat
 [十大经典排序算法最强总结（含JAVA代码实现）](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
 
 ### Github
+[Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
 [Github Online IDE](https://github.com/features/codespaces)<br>
 
 ## Course Material
