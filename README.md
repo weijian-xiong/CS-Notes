@@ -13,3 +13,11 @@ How to start with pip:
 ```
 sudo easy_install pip
 ```
+## Other
+How to change default terminal path:
+
+
+Mounty for NTFS:
+brew cask install mounty
+
+Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
