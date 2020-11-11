@@ -5,4 +5,8 @@
 
 # Sample queries
 Add primary key:<br>
-alter table person1 add constraint primary key(name);
+**alter table person1 add constraint primary key(name);**
+
+**select state from station where city like '%nix%';**<br>
+% means at least two characters<br>
+_ means only one character
