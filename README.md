@@ -29,6 +29,7 @@ brew cask install mounty
 ```
 [How To Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)<br>
 [Homebrew Download](https://brew.sh/)<br>
+[VirtualBox安装Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 
 ## Solution
 zsh: permission denied: ./file.bat
@@ -40,7 +41,6 @@ chmod +x ./file.bat
 [极客学院](https://www.jikexueyuan.com/)<br>
 [牛客网](https://www.nowcoder.com/)<br>
 [计算机网络知识](https://www.cnblogs.com/maybe2030/p/4781555.html)<br>
-[VirtualBox安装Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 [HTTPS原理](https://mp.weixin.qq.com/s/5zcpyKxuyib5gxMe3mqrhw)<br>
 [免费在线云盘](https://mp.weixin.qq.com/s/CVT6z9yFWjs4PUp9eBYyPg)<br>
 [w3schools](https://www.w3schools.com/)<br>
