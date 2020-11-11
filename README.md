@@ -52,6 +52,12 @@ chmod +x ./file.bat
 [How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
 [App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
 
+### Tool
+[Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
+[Repl.it - Online Compiler](https://repl.it/)<br>
+[Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
+[Creately - Online diagrams tool](https://app.creately.com/)<br>
+
 ### Algorithm
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
 [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
