@@ -2,7 +2,7 @@
  A collection of Computer Science notes
  
 ## Assembly
-Creating your own operating system -->  [Tutorial Webpage](http://createyourownos.blogspot.com/)
+[Creating your own operating system](http://createyourownos.blogspot.com/)
 
 ## Python
 How to install homebrew / python:<br>
@@ -35,6 +35,5 @@ Mounty for NTFS:
 brew cask install mounty
 ```
 Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
-
-Keyboard shortcuts in Terminal on Mac: 
-[Apple support](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+ 
+[Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
