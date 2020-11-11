@@ -51,6 +51,13 @@ chmod +x ./file.bat
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
 [How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
 [App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
+### Algorithm
+[动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
+[LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
+[十大经典排序算法最强总结（含JAVA代码实现）](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+
+### Github
+[Github Online IDE](https://github.com/features/codespaces)<br>
 
 ## Course Material
 [Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
