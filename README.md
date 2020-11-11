@@ -20,7 +20,12 @@ Press Windows + R then type shell:startup, then move the shortcut of a software 
 [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
 
 ## Web pages
+[极客学院](https://www.jikexueyuan.com/)<br>
 [Snap](https://snap.berkeley.edu/snap/snap.html)<br>
+[App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
+[App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
+[How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
+[App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
 
 ## Course material
 [Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
