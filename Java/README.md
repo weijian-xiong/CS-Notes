@@ -11,3 +11,5 @@ list set map<br>
 
 # Web Page
 [为什么 Java 的 main 方法必须是 public static void？](https://mp.weixin.qq.com/s/lNuZo4E1hXCg6zm05SoiwA)<br>
+[Java AES Encryption Decryption Example](https://howtodoinjava.com/java/java-security/java-aes-encryption-example/)<br>
+[Java AES 256 Encryption Decryption Example](https://howtodoinjava.com/java/java-security/aes-256-encryption-decryption/)<br>
