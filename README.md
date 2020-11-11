@@ -21,6 +21,7 @@ sudo python -m pip install < package name ><br>
 [PIP Install on Mac: Operation Not Permitted](https://marcelog.github.io/articles/mac_osx_python_pip_install_operation_not_permitted.html)
 
 Zsh permission denied:
+<img width="1440" alt="Screen Shot 2020-01-23 at 7 30 53 PM" src="https://user-images.githubusercontent.com/24274444/98752225-62cb9b80-2387-11eb-9b73-cd0cf70c2d4d.png">
 
 ## Other
 How to change default terminal path:<br>
