@@ -15,3 +15,6 @@ Without permission:<br>
 sudo python -m pip install < package name >
 ```
 [PIP Install on Mac: Operation Not Permitted](https://marcelog.github.io/articles/mac_osx_python_pip_install_operation_not_permitted.html)
+
+# Web Page
+[Exploring HTTPS With Python](https://realpython.com/python-https/#creating-an-example-application)<br>
