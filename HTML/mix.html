@@ -1,0 +1,91 @@
+<html>
+<body>
+
+<h1 align="center">This is heading 1</h1>
+<p>The <b>input type="color"</b> is used for input fields that should contain a color.</p>
+<p>Depending on browser support:<br>1234</p>
+
+<form action="/action_page.php">
+  Select your favorite color:
+  <input type="color" name="favcolor" value="#ff0000">
+  <input type="submit">
+  <input type="reset">
+</form>
+
+<form>
+<button type="button" style="background-color: #7ED321;width: 100px;height: 30px;color: #FFFFFF:">Log in</button>
+<button type="button">Sign up</button>
+<br>
+Account: <input type "text" name="name"> Password: <input type "passwd" name="pw">
+<input type="submit" value="Comfirm">
+<br>
+Birthday:<input type="date" name="bday">
+Telephone: <input type="tel" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+<input type="submit">
+<span>Format: 123-456-7890</span>
+</form>
+
+<a href="http://www.baidu.com">
+This is Baidu website.</a>
+
+<img src="/WeijianXiong/desktop/a.png" width="300" height="120" />
+
+<body bgcolor="pink">
+
+<p style="font-family:verdana;color:red">
+This text is in Verdana and red</p>
+
+<p style="font-family:times;color:blue">
+This text is in Times and green</p>
+
+<p style="font-size:25px">This text is 30 pixels high</p>
+
+<p>
+<b>Note:</b> guess who I am.
+</p>
+
+<style>
+.dropdown {
+position: relative;
+display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+.dropdown:hover .dropdown-content {
+display: block;
+}
+</style>
+
+<div class="dropdown">
+  <span>Cool</span>
+  <div class="dropdown-content">
+    <p>Hello 11</p>
+    <p>Hello 22</p>
+    <p>Hello 33</p>
+    <p>Hello 44</p>
+    <p>Hello 55</p>
+  </div>
+</div>
+
+<p id="demo" onclick="myFunction()">Click me to change my text color.</p>
+
+<p>A function is triggered when the p element is clicked. The function sets the color of the p element to red.</p>
+
+<script>
+function myFunction() {
+  document.getElementById("demo").style.color = "red";
+}
+</script>
+
+
+
+</body>
+</html>
