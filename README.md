@@ -16,6 +16,12 @@ How to start with pip:
 ```
 sudo easy_install pip
 ```
+Without permission:<br>
+sudo python -m pip install < package name ><br>
+[PIP Install on Mac: Operation Not Permitted](https://marcelog.github.io/articles/mac_osx_python_pip_install_operation_not_permitted.html)
+
+Zsh permission denied:
+
 ## Other
 How to change default terminal path:<br>
 ![截屏2019-11-2703 33 53](https://user-images.githubusercontent.com/24274444/98751558-f13f1d80-2385-11eb-88b1-0f7f61a349e0.png)
