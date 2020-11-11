@@ -3,6 +3,9 @@
 - [Mac install and use sql](https://stackoverflow.com/questions/14235362/mac-install-and-open-mysql-using-terminal)<br>
 - [Install MySQL on macOS Sierra](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
 
+# Web Page
+[SQL 语句大全](https://mp.weixin.qq.com/s/LDkMCYi5bejFEo5D1buUFg)<br>
+
 # Sample queries
 Add primary key:<br>
 alter table person1 add constraint primary key(name);
