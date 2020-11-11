@@ -25,11 +25,6 @@ sudo python -m pip install < package name >
 Zsh permission denied:
 <img width="1440" alt="Screen Shot 2020-01-23 at 7 30 53 PM" src="https://user-images.githubusercontent.com/24274444/98752225-62cb9b80-2387-11eb-9b73-cd0cf70c2d4d.png">
 
-## MySQL
-- [How to use sql in terminal](https://askubuntu.com/questions/353460/how-to-use-sql-in-terminal)<br>
-- [Mac install and use sql](https://stackoverflow.com/questions/14235362/mac-install-and-open-mysql-using-terminal)<br>
-- [Install MySQL on macOS Sierra](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
-
 ## Other
 How to change default terminal path:<br>
 ![截屏2019-11-2703 33 53](https://user-images.githubusercontent.com/24274444/98751558-f13f1d80-2385-11eb-88b1-0f7f61a349e0.png)
