@@ -8,3 +8,6 @@ java中操作字符串的类有哪些<br>
 普通类 抽象类 和接口有什么区别<br>
 java中的io流分几种<br>
 list set map<br>
+
+# Web Page
+[为什么 Java 的 main 方法必须是 public static void？](https://mp.weixin.qq.com/s/lNuZo4E1hXCg6zm05SoiwA)<br>
