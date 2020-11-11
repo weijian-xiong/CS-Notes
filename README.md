@@ -1,5 +1,8 @@
 # CS Notes
  A collection of Computer Science notes
+ 
+## Assembly
+Creating your own operating system -->  [Tutorial Webpage](http://createyourownos.blogspot.com/)
 
 ## Python
 How to install homebrew / python:<br>
