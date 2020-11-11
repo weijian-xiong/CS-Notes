@@ -36,6 +36,7 @@ chmod +x ./file.bat
 
 ## Web Page
 [极客学院](https://www.jikexueyuan.com/)<br>
+[牛客网](https://www.nowcoder.com/)<br>
 [Snap](https://snap.berkeley.edu/snap/snap.html)<br>
 [App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
