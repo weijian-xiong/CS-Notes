@@ -44,7 +44,9 @@ chmod +x ./file.bat
 [HTTPS原理](https://mp.weixin.qq.com/s/5zcpyKxuyib5gxMe3mqrhw)<br>
 [免费在线云盘](https://mp.weixin.qq.com/s/CVT6z9yFWjs4PUp9eBYyPg)<br>
 [w3schools](https://www.w3schools.com/)<br>
+[Stack Overflow](https://stackoverflow.com/)<br>
 [Snap](https://snap.berkeley.edu/snap/snap.html)<br>
+[Create Your Own Certificate and CA](https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca)<br>
 [App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
 [How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
