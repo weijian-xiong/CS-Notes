@@ -41,10 +41,39 @@ brew cask install mounty
 [YouTube-dl](https://youtube-dl.org/)<br>
 
 ## Issue
-zsh: permission denied: ./file.bat
+1. zsh: permission denied: ./file.bat
 ```
 chmod +x ./file.bat
 ```
+
+2. xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+
+After upgrade to Mac Catalina I faced the same issue, I had to run couple of commands to get this fixed.
+
+First started with:
+```
+
+xcode-select --install
+```
+
+It didn't fix the problem, had to run the following in sudo
+```
+sudo xcode-select --reset
+```
+
+Then, finally got fixed after I switched and set the path explicitly for active developer directory:
+```
+
+sudo xcode-select -s /Library/Developer/CommandLineTools
+```
+
+Note: In case you have Xcode installed, you may need to specify Xcode directory in this case, it should be something like this
+```
+
+xcode-select -s /Applications/Xcode.app
+```
+[Stack Overflow solution](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa)<br>
+[Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
 
 ## Web Page
 [极客学院](https://www.jikexueyuan.com/)<br>
