@@ -80,6 +80,7 @@ xcode-select -s /Applications/Xcode.app
 [牛客网](https://www.nowcoder.com/)<br>
 [计算机网络知识](https://www.cnblogs.com/maybe2030/p/4781555.html)<br>
 [HTTPS原理](https://mp.weixin.qq.com/s/5zcpyKxuyib5gxMe3mqrhw)<br>
+[15 张图，了解一下 TCP/IP 必知也必会的 10 个问题](https://mp.weixin.qq.com/s/qf8L52VtGTzWcF0NB5Filg)<br>
 [免费在线云盘](https://mp.weixin.qq.com/s/CVT6z9yFWjs4PUp9eBYyPg)<br>
 [CodeGym](https://codegym.cc/zh/)<br>
 [w3schools](https://www.w3schools.com/)<br>
@@ -107,6 +108,7 @@ xcode-select -s /Applications/Xcode.app
 [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
 [Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
 [Github Online IDE](https://github.com/features/codespaces)<br>
+[怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
 
 ## Course Material
 [Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
