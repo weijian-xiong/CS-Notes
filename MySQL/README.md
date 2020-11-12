@@ -5,6 +5,7 @@
 
 # Web Page
 [SQL 语句大全](https://mp.weixin.qq.com/s/LDkMCYi5bejFEo5D1buUFg)<br>
+[SQL数据库面试题以及答案](https://mp.weixin.qq.com/s/jf9g_s6Vro2BzzEHo6xuYQ)<br>
 
 # Sample queries
 Add primary key:<br>
