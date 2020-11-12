@@ -4,6 +4,14 @@
 ## Assembly
 [Creating your own operating system](http://createyourownos.blogspot.com/)<br>
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
+
+## Blockchain
+[使用 Python 从零开始开发区块链应用程序](https://www.ibm.com/developerworks/cn/cloud/library/cl-develop-blockchain-app-in-python/index.html)<br>
+[如何成为区块链开发者](https://ethfans.org/posts/blockchain-developer-crash-course)<br>
+[Remix - Ethereum IDE](http://remix.ethereum.org/)<br>
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://nakamotoinstitute.org/bitcoin/)<br>
+[Faucet metamask](https://faucet.metamask.io/)<br>
+
 ## Other
 How to change default terminal path:<br>
 zsh shell:
