@@ -68,6 +68,8 @@ xcode-select -s /Applications/Xcode.app
 [Stack Overflow solution](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa)<br>
 [Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
 
+3. [How to use reCHAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
+
 ## Related Link
 [极客学院](https://www.jikexueyuan.com/)<br>
 [牛客网](https://www.nowcoder.com/)<br>
