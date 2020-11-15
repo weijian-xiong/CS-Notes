@@ -3,7 +3,7 @@
 [Mac install and use sql](https://stackoverflow.com/questions/14235362/mac-install-and-open-mysql-using-terminal)<br>
 [Install MySQL on macOS Sierra](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
 
-# Web Page
+# Related Link
 [SQL语句大全](https://mp.weixin.qq.com/s/LDkMCYi5bejFEo5D1buUFg)<br>
 [SQL数据库面试题以及答案](https://mp.weixin.qq.com/s/jf9g_s6Vro2BzzEHo6xuYQ)<br>
 
