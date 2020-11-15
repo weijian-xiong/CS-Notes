@@ -1,7 +1,7 @@
 # Tool
 [SQLite DB Browser](https://sqlitebrowser.org/dl/)<br>
 
-# Web Page
+# Related Link
 [Android studio retrieve data from Sqlite database and display it into textview](https://stackoverflow.com/questions/44876568/android-studio-retrieve-data-from-sqlite-database-and-display-it-into-textview/44884971)<br>
 [Android Login and Register with SQLite Database Tutorial](http://www.androidtutorialshub.com/android-login-and-register-with-sqlite-database-tutorial/)<br>
 [Android Login with SQLite Database Tutorial](https://www.jackrutorial.com/2018/03/android-login-with-sqlite-database-tutorial.html)<br>
