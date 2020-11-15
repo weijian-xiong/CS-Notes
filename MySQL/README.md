@@ -3,9 +3,13 @@
 [Mac install and use sql](https://stackoverflow.com/questions/14235362/mac-install-and-open-mysql-using-terminal)<br>
 [Install MySQL on macOS Sierra](https://gist.github.com/nrollr/3f57fc15ded7dddddcc4e82fe137b58e)
 
-# Related Link
-[SQL语句大全](https://mp.weixin.qq.com/s/LDkMCYi5bejFEo5D1buUFg)<br>
-[SQL数据库面试题以及答案](https://mp.weixin.qq.com/s/jf9g_s6Vro2BzzEHo6xuYQ)<br>
+# How you use MySQL
+1. Type "mysql -u root -p" in the terminal
+2. Enter password for root
+3. Type "show databases;" --> to see what databases do you have 
+4. Type "use test;" --> test is the database name you want to use
+5. Type "show tables;" --> to see what tables on your selected database
+6. Then create, modify, update or delete your table
 
 # Sample queries
 Add primary key:<br>
@@ -26,3 +30,7 @@ INSERT INTO STATION VALUES(44,'DENVER','CO','US',80014,40,105);
 CREATE TABLE STATS (ID INT(2) REFERENCES STATION(ID), MONTH INT CHECK(MONTH BETWEEN 1 AND 12), TEMP_F REAL CHECK(TEMP_F BETWEEN -80 AND 150), RAIN_I REAL CHECK(RAIN_I BETWEEN 0 AND 100), PRIMARY KEY (ID,MONTH));
 
 show create table TRANSACTION;
+
+# Related Link
+[SQL语句大全](https://mp.weixin.qq.com/s/LDkMCYi5bejFEo5D1buUFg)<br>
+[SQL数据库面试题以及答案](https://mp.weixin.qq.com/s/jf9g_s6Vro2BzzEHo6xuYQ)<br>
