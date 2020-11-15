@@ -68,7 +68,7 @@ xcode-select -s /Applications/Xcode.app
 [Stack Overflow solution](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa)<br>
 [Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
 
-## Web Page
+## Related Link
 [极客学院](https://www.jikexueyuan.com/)<br>
 [牛客网](https://www.nowcoder.com/)<br>
 [计算机网络知识](https://www.cnblogs.com/maybe2030/p/4781555.html)<br>
