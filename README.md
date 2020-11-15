@@ -86,6 +86,7 @@ xcode-select -s /Applications/Xcode.app
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
 [How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
 [App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
+[Create google reCAPTCHA](https://www.google.com/recaptcha/admin/create)<br>
 
 ### Tool
 [Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
