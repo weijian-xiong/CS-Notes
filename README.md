@@ -73,6 +73,23 @@ xcode-select -s /Applications/Xcode.app
 [Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
 
 3. [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
+4. SMTP Authentication Error
+```
+Traceback (most recent call last):
+  File "gmail.py", line 22, in <module>
+    server.login(gmail_user, gmail_password)
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/smtplib.py", line 734, in login
+    raise last_exception
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/smtplib.py", line 723, in login
+    (code, resp) = self.auth(
+  File "/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/smtplib.py", line 646, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials n72sm18791391pfd.202 - gsmtp')
+```
+Log in to your Google account, and use these links:<br>
+Step 1 [Link of Disabling 2-step verification](https://myaccount.google.com/security?utm_source=OGB&utm_medium=act#signin)<br>
+Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/lesssecureapps?pli=1&pageId=none)<br>
+[Login credentials not working with Gmail SMTP](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)<br>
 
 ## Related Link
 [极客学院](https://www.jikexueyuan.com/)<br>
