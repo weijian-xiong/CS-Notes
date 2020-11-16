@@ -1,6 +1,10 @@
 # CS Notes
  A collection of useful Computer Science notes 
- 
+
+|A|B|
+| - | - |
+| 1 |3 |
+
 ## Assembly
 [Creating your own operating system](http://createyourownos.blogspot.com/)<br>
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
