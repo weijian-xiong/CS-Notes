@@ -89,7 +89,8 @@ xcode-select -s /Applications/Xcode.app
 [Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
 
 3. [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
-4. SMTP Authentication Error
+4. [How to verify reCAPTCHA - Python](https://techmonger.github.io/5/python-flask-recaptcha/)<br>
+5. SMTP Authentication Error
 ```
 Traceback (most recent call last):
   File "gmail.py", line 22, in <module>
