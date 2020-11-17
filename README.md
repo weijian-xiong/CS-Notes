@@ -10,7 +10,7 @@
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 
 ## Other
-How to change default terminal path:<br>
+1. How to change default terminal path:<br>
 zsh shell:
 ```
 vim ~/.zshrc
@@ -23,9 +23,14 @@ Then add this line in corresponding file:
 ```
 cd /User/xio/Desktop
 ```
-Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
+2. Customize zsh
+```
+vim ~/.zshrc
+```
+
+3. Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
  
-[Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+4. [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
 
 ## Installation
 Mounty for NTFS:
