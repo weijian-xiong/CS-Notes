@@ -33,9 +33,15 @@ vim ~/.zshrc
 [Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
 [zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
 
-3. Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
+3. How to remove default "Last login" message in MacOS Terminal
+```
+touch ~/.hushlogin
+```
+
+4. Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
  
-4. [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+5. [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+
 
 ## Installation
 Mounty for NTFS:
