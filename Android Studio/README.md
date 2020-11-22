@@ -8,7 +8,7 @@
 [Firebase Authentication – Send Reset Password Email / Forgot Password](https://grokonez.com/android/firebase-authentication-send-reset-password-email-forgot-password-android)<br>
 [Add Firebase to your Android project](https://firebase.google.com/docs/android/setup?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiXiuB1XGMm1Ifm_8J4DIQsl8ARJC6g_Clr27BemKg_wfJVQ5iIU8ycaAjjeEALw_wcB)<br>
 [How to integrate Firebase into Android App](https://grokonez.com/android/how-to-integrate-firebase-android-app-android-studio#2_Create_Project_on_Firebase)<br>
-[Packeage Index](https://developer.android.com/reference/androidx/packages)<br>
+[Package Index](https://developer.android.com/reference/androidx/packages)<br>
 [How to See SQLite Database Data Saved in Device](https://aboutreact.com/see-saved-data-of-the-sqlite-database-in-device/)<br>
 [Create a Database Android Application in Android Studio 3.0](https://dzone.com/articles/create-a-database-android-application-in-android-s)<br>
 [JUnit testing example](https://www.codexpedia.com/android/junit-test-suite-sample-code-for-android/)<br>
