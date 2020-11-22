@@ -11,6 +11,7 @@
 [Packeage Index](https://developer.android.com/reference/androidx/packages)<br>
 [How to See SQLite Database Data Saved in Device](https://aboutreact.com/see-saved-data-of-the-sqlite-database-in-device/)<br>
 [Create a Database Android Application in Android Studio 3.0](https://dzone.com/articles/create-a-database-android-application-in-android-s)<br>
+[JUnit testing example](https://www.codexpedia.com/android/junit-test-suite-sample-code-for-android/)<br>
 
 ## Github Project
 [LoginAndroidApps](https://github.com/annurkhozin/LoginAndroidApps)<br>
