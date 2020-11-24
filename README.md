@@ -127,7 +127,7 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 ### Algorithm
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
 [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
-[经典排序算法 JAVA实现）](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+[经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
 
 
 ### Github
