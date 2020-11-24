@@ -56,7 +56,7 @@ brew cask install mounty
 [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)<br>
 
 ## Other
-Press Windows + R and te shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
+Press Windows + R and type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
 
 ## Issue
 1. zsh: permission denied: ./file.bat
