@@ -30,6 +30,10 @@ vim ~/.zshrc
 <img width="563" alt="Screen Shot 2020-11-16 at 10 36 35 PM" src="https://user-images.githubusercontent.com/24274444/99347389-a5481900-285c-11eb-9006-80e41ad50008.png">
 <img width="514" alt="Screen Shot 2020-11-16 at 10 39 02 PM" src="https://user-images.githubusercontent.com/24274444/99347391-a5e0af80-285c-11eb-8199-4f1c439436b5.png">
 
+e.g:
+```
+PROMPT='[%F{red}%*%f] %F{red}%~%f >> '
+```
 [Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
 [zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
 [zsh](https://ohmyz.sh/#install)<br>
