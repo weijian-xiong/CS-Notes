@@ -22,3 +22,4 @@ list set map<br>
 [Spring tutorial](https://www.tutorialspoint.com/spring/index.htm)<br>
 [java程序员常用的11个API](https://mp.weixin.qq.com/s/VsBsVsVXlKyt8vnCeoVFuw)<br>
 [13 张图解 Java 中的内存模型](https://mp.weixin.qq.com/s/-J1m32lfdlSwaMA7leFF8g)<br>
+[How to Fix Cron Permission Issues in MacOS Catalina & Mojave](https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/)<br>
