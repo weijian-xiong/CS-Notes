@@ -9,7 +9,7 @@
 [Creating your own operating system](http://createyourownos.blogspot.com/)<br>
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 
-## Other
+## Customize MacOS Terminal
 1. How to change default terminal path:<br>
 zsh shell:
 ```
