@@ -127,8 +127,8 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 ### Algorithm
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
 [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
-[十大经典排序算法最强总结（含JAVA代码实现）](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
-[8 种排序算法与 Java 代码实现](https://mp.weixin.qq.com/s/iEai54rBPuZxIDRRsc_jRQ)<br>
+[经典排序算法 JAVA实现）](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+
 
 ### Github
 [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
