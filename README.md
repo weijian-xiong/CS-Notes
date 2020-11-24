@@ -1,39 +1,26 @@
-# CS Notes
- A collection of useful Computer Science notes 
-
-|A|B|
-| - | - |
-| 1 |3 |
+# A collection of useful Coding Notes 
 
 ## Assembly
 [Creating your own operating system](http://createyourownos.blogspot.com/)<br>
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 
 ## About MacOS Terminal
-1. How to change default terminal path:<br>
-zsh shell:
-```
-vim ~/.zshrc
-```
-bash shell:
-```
-vim ~/.bash_profile
-```
-Then add this line in corresponding file:
-```
-cd /User/xio/Desktop
-```
-2. Customize zsh
-```
-vim ~/.zshrc
-```
-<img width="563" alt="Screen Shot 2020-11-16 at 10 36 35 PM" src="https://user-images.githubusercontent.com/24274444/99347389-a5481900-285c-11eb-9006-80e41ad50008.png">
-<img width="514" alt="Screen Shot 2020-11-16 at 10 39 02 PM" src="https://user-images.githubusercontent.com/24274444/99347391-a5e0af80-285c-11eb-8199-4f1c439436b5.png">
+1. Customize zsh:<br>
 
-e.g:
+|Shell  |zsh         | bash              |
+|-------|------------|-------------------|
+|Command|vim ~/.zshrc|vim ~/.bash_profile|
+
+Change default directory:<br>
+```
+cd ~/Desktop
+```
+Change color:<br>
 ```
 PROMPT='[%F{red}%*%f] %F{red}%~%f >> '
 ```
+<img width="563" alt="Screen Shot 2020-11-16 at 10 36 35 PM" src="https://user-images.githubusercontent.com/24274444/99347389-a5481900-285c-11eb-9006-80e41ad50008.png">
+<img width="514" alt="Screen Shot 2020-11-16 at 10 39 02 PM" src="https://user-images.githubusercontent.com/24274444/99347391-a5e0af80-285c-11eb-8199-4f1c439436b5.png">
 [Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
 [zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
 [zsh](https://ohmyz.sh/#install)<br>
