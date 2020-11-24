@@ -9,7 +9,7 @@
 [Creating your own operating system](http://createyourownos.blogspot.com/)<br>
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 
-## Customize MacOS Terminal
+## About MacOS Terminal
 1. How to change default terminal path:<br>
 zsh shell:
 ```
@@ -42,10 +42,7 @@ PROMPT='[%F{red}%*%f] %F{red}%~%f >> '
 ```
 touch ~/.hushlogin
 ```
-
-4. Press Windows + R then type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
- 
-5. [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
+4. [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)
 
 
 ## Installation
@@ -53,10 +50,13 @@ Mounty for NTFS:
 ```
 brew cask install mounty
 ```
-[How To Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)<br>
-[Homebrew Download](https://brew.sh/)<br>
-[VirtualBox Ubuntu Installation](https://blog.csdn.net/u012732259/article/details/70172704)<br>
+[Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)<br>
+[Homebrew](https://brew.sh/)<br>
+[VirtualBox Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)<br>
+
+## Other
+Press Windows + R and te shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
 
 ## Issue
 1. zsh: permission denied: ./file.bat
