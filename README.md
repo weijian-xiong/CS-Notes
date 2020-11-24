@@ -32,6 +32,7 @@ vim ~/.zshrc
 
 [Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
 [zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
+[zsh](https://ohmyz.sh/#install)<br>
 
 3. How to remove default "Last login" message in MacOS Terminal
 ```
