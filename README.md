@@ -19,12 +19,11 @@ Change color:<br>
 ```
 PROMPT='[%F{red}%*%f] %F{red}%~%f >> '
 ```
-<img width="563" alt="Screen Shot 2020-11-16 at 10 36 35 PM" src="https://user-images.githubusercontent.com/24274444/99347389-a5481900-285c-11eb-9006-80e41ad50008.png">
-<img width="514" alt="Screen Shot 2020-11-16 at 10 39 02 PM" src="https://user-images.githubusercontent.com/24274444/99347391-a5e0af80-285c-11eb-8199-4f1c439436b5.png">
+<img width="548" alt="Screen Shot 2020-11-24 at 11 23 17 AM" src="https://user-images.githubusercontent.com/24274444/100129721-84c52380-2e47-11eb-94cf-a41134a2cd01.png">
 
-[Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
-[zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
-[oh my zsh](https://ohmyz.sh/#install)<br>
+[Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)
+[zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)
+[oh my zsh](https://ohmyz.sh/#install)
 
 3. How to remove default "Last login" message in MacOS Terminal
 ```
