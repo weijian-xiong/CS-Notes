@@ -109,24 +109,6 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [Create Your Own Certificate and CA](https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca)<br>
 [Create google reCAPTCHA](https://www.google.com/recaptcha/admin/create)<br>
 
-<details><summary>Coding</summary><p>
-   
-[极客学院](https://www.jikexueyuan.com/)<br>
-[牛客网](https://www.nowcoder.com/)<br>
-[w3schools](https://www.w3schools.com/)<br>
-[Stack Overflow](https://stackoverflow.com/)<br>
-[CodeGym](https://codegym.cc/zh/)<br>
-[Snap](https://snap.berkeley.edu/snap/snap.html)<br>
-</p></details>
-
-<details><summary>Tool</summary><p>
-      
-[Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
-[Repl.it - Online Compiler](https://repl.it/)<br>
-[Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
-[Creately - Online diagrams tool](https://app.creately.com/)<br>
-</p></details>
-
 <details><summary>Algorithm</summary><p>
      
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
@@ -148,12 +130,14 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [16 colors for background in MCGA BIOS text mode (AL = 03h)](https://stackoverflow.com/questions/28790368/16-colors-for-background-in-mcga-bios-text-mode-al-03h)<br>
 </p></details>
 
-<details><summary>Github</summary><p>
-     
-[Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-[Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
-[Github Online IDE](https://github.com/features/codespaces)<br>
-[怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
+<details><summary>Coding</summary><p>
+   
+[极客学院](https://www.jikexueyuan.com/)<br>
+[牛客网](https://www.nowcoder.com/)<br>
+[w3schools](https://www.w3schools.com/)<br>
+[Stack Overflow](https://stackoverflow.com/)<br>
+[CodeGym](https://codegym.cc/zh/)<br>
+[Snap](https://snap.berkeley.edu/snap/snap.html)<br>
 </p></details>
 
 <details><summary>Course Material</summary><p>
@@ -163,4 +147,20 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [Solutions Manual for Languages and Machines: An Introduction to the Theory of Computer Science Third Edition](https://cdn.manesht.ir/3252___Sudkamp-Solutions-3rd.pdf)<br>
 [Processing Unit](http://web.cecs.pdx.edu/~zeshan/ece341_lecture10a.pdf)<br>
 [Interface circuits](http://www.idc-online.com/technical_references/pdfs/information_technology/Interface_circuits_%20i.pdf)<br>
+</p></details>
+
+<details><summary>Github</summary><p>
+     
+[Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+[Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
+[Github Online IDE](https://github.com/features/codespaces)<br>
+[怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
+</p></details>
+
+<details><summary>Tool</summary><p>
+      
+[Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
+[Repl.it - Online Compiler](https://repl.it/)<br>
+[Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
+[Creately - Online diagrams tool](https://app.creately.com/)<br>
 </p></details>
