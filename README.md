@@ -6,9 +6,7 @@
 
 
 ## About MacOS Terminal
-<details>
-   <summary>Customize zsh</summary>
-   <p>
+<details><summary>Customize zsh</summary><p>
      
 |Shell  |zsh         | bash              |
 |-------|------------|-------------------|
@@ -27,17 +25,13 @@ PROMPT='[%F{red}%*%f] %F{red}%~%f >> '
 [Customize the MacOS Terminal](https://medium.com/dev-genius/customize-the-macos-terminal-zsh-4cb387e4f447)<br>
 [zsh Prompt Expansion](http://zsh.sourceforge.net/Doc/Release/Prompt-Expansion.html#Prompt-Expansion)<br>
 [oh my zsh](https://ohmyz.sh/#install)
-  </p>
-</details>
-<details>
-   <summary>How to remove default "Last login" message in MacOS Terminal </summary>
-   <p>
+</p></details>
+<details><summary>How to remove default "Last login" message in MacOS Terminal </summary><p>
      
     ```
     touch ~/.hushlogin
     ```
-  </p>
-</details>
+</p></details>
 
 [Keyboard shortcuts in Terminal on Mac](https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac)<br>
 
@@ -57,18 +51,13 @@ Press Windows + R and type shell:startup, then move the shortcut of a software w
 
 
 ## Issue
-<details>
-   <summary>zsh: permission denied: ./file.bat</summary>
-   <p>
+<details><summary>zsh: permission denied: ./file.bat</summary><p>
      
 ```
 chmod +x ./file.bat
 ```
-  </p>
-</details>
-<details>
-   <summary>xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun</summary>
-   <p>
+</p></details>
+<details><summary>xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun</summary><p>
 After upgrade to Mac Catalina I faced the same issue, I had to run couple of commands to get this fixed.
 
 First started with:
@@ -95,11 +84,8 @@ xcode-select -s /Applications/Xcode.app
 ```
 [Stack Overflow solution](https://stackoverflow.com/questions/52522565/git-is-not-working-after-macos-update-xcrun-error-invalid-active-developer-pa)<br>
 [Download CommandLineTool from Apple Developer](https://developer.apple.com/download/more/)<br>
-  </p>
-</details>
-<details>
-   <summary>SMTP Authentication Error</summary>
-   <p>
+</p></details>
+<details><summary>SMTP Authentication Error</summary><p>
 
 ```
 Traceback (most recent call last):
@@ -117,23 +103,16 @@ Log in to your Google account, and use these links:<br>
 Step 1 [Link of Disabling 2-step verification](https://myaccount.google.com/security?utm_source=OGB&utm_medium=act#signin)<br>
 Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/lesssecureapps?pli=1&pageId=none)<br>
 [Login credentials not working with Gmail SMTP](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)<br>
-  </p>
-</details>
+</p></details>
 
 [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
 [How to verify reCAPTCHA - Python](https://techmonger.github.io/5/python-flask-recaptcha/)<br>
 
 ## Related Link
-[极客学院](https://www.jikexueyuan.com/)<br>
-[牛客网](https://www.nowcoder.com/)<br>
+
 [计算机网络知识](https://www.cnblogs.com/maybe2030/p/4781555.html)<br>
 [HTTPS原理](https://mp.weixin.qq.com/s/5zcpyKxuyib5gxMe3mqrhw)<br>
-[15 张图，了解一下 TCP/IP 必知也必会的 10 个问题](https://mp.weixin.qq.com/s/qf8L52VtGTzWcF0NB5Filg)<br>
-[免费在线云盘](https://mp.weixin.qq.com/s/CVT6z9yFWjs4PUp9eBYyPg)<br>
-[CodeGym](https://codegym.cc/zh/)<br>
-[w3schools](https://www.w3schools.com/)<br>
-[Stack Overflow](https://stackoverflow.com/)<br>
-[Snap](https://snap.berkeley.edu/snap/snap.html)<br>
+[TCP/IP知识](https://mp.weixin.qq.com/s/qf8L52VtGTzWcF0NB5Filg)<br>
 [Create Your Own Certificate and CA](https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca)<br>
 [App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
 [App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
@@ -141,38 +120,38 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
 [Create google reCAPTCHA](https://www.google.com/recaptcha/admin/create)<br>
 
+<details><summary>Coding</summary><p>
+   
+[极客学院](https://www.jikexueyuan.com/)<br>
+[牛客网](https://www.nowcoder.com/)<br>
+[w3schools](https://www.w3schools.com/)<br>
+[Stack Overflow](https://stackoverflow.com/)<br>
+[CodeGym](https://codegym.cc/zh/)<br>
+[Snap](https://snap.berkeley.edu/snap/snap.html)<br>
+</p></details>
 
-<details>
-   <summary>Tool</summary>
-   <p>
+<details><summary>Tool</summary><p>
       
-   [Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
-   [Repl.it - Online Compiler](https://repl.it/)<br>
-   [Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
-   [Creately - Online diagrams tool](https://app.creately.com/)<br>
-  </p>
-</details>
+[Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
+[Repl.it - Online Compiler](https://repl.it/)<br>
+[Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
+[Creately - Online diagrams tool](https://app.creately.com/)<br>
+</p></details>
 
-<details>
-   <summary>Algorithm</summary>
-   <p>
+<details><summary>Algorithm</summary><p>
      
-   [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
-   [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
-   [经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
-  </p>
-</details>
+[动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
+[LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
+[经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+</p></details>
 
-<details>
-   <summary>Github</summary>
-   <p>
+<details><summary>Github</summary><p>
      
-   [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-   [Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
-   [Github Online IDE](https://github.com/features/codespaces)<br>
-   [怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
-  </p>
-</details>
+[Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+[Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
+[Github Online IDE](https://github.com/features/codespaces)<br>
+[怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
+</p></details>
 
 ## Course Material
 [Discrete Structures](http://web.stanford.edu/class/cs103x/cs103x-notes.pdf)<br>
