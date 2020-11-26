@@ -145,11 +145,11 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 <details>
    <summary>Tool</summary>
    <p>
-     
-     [Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
-     [Repl.it - Online Compiler](https://repl.it/)<br>
-     [Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
-     [Creately - Online diagrams tool](https://app.creately.com/)<br>
+      
+   [Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
+   [Repl.it - Online Compiler](https://repl.it/)<br>
+   [Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
+   [Creately - Online diagrams tool](https://app.creately.com/)<br>
   </p>
 </details>
 
@@ -157,9 +157,9 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
    <summary>Algorithm</summary>
    <p>
      
-    [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
-    [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
-    [经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+   [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
+   [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
+   [经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
   </p>
 </details>
 
@@ -167,10 +167,10 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
    <summary>Github</summary>
    <p>
      
-    [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-    [Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
-    [Github Online IDE](https://github.com/features/codespaces)<br>
-    [怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
+   [Github formatting syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+   [Github add README images](https://www.youtube.com/watch?v=nvPOUdz5PL4)<br>
+   [Github Online IDE](https://github.com/features/codespaces)<br>
+   [怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
   </p>
 </details>
 
