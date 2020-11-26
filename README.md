@@ -1,6 +1,6 @@
 # A collection of useful Coding Notes 
 
-## About MacOS Terminal
+## MacOS Terminal
 <details><summary>Customize zsh</summary><p>
      
 |Shell  |zsh         | bash              |
@@ -37,13 +37,11 @@ brew cask install mounty
 ```
 [Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)<br>
 [Homebrew](https://brew.sh/)<br>
-[VirtualBox Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
+[VirtualBox - Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)<br>
 
 ## Other
 Press Windows + R and type shell:startup, then move the shortcut of a software which you want automatically start up to this folder.
-
-
 
 ## Issue
 <details><summary>zsh: permission denied: ./file.bat</summary><p>
