@@ -114,10 +114,6 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [HTTPS原理](https://mp.weixin.qq.com/s/5zcpyKxuyib5gxMe3mqrhw)<br>
 [TCP/IP知识](https://mp.weixin.qq.com/s/qf8L52VtGTzWcF0NB5Filg)<br>
 [Create Your Own Certificate and CA](https://sites.google.com/site/ddmwsst/create-your-own-certificate-and-ca)<br>
-[App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
-[App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
-[How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
-[App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
 [Create google reCAPTCHA](https://www.google.com/recaptcha/admin/create)<br>
 
 <details><summary>Coding</summary><p>
@@ -143,6 +139,14 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [动态规划解决扔鸡蛋问题](https://mp.weixin.qq.com/s/R3aQ7m1HdHwt50ELX7Kn2g)<br>
 [LRU算法](https://mp.weixin.qq.com/s/YhJ9dkhh7Uw1RMt8Yn-O4A)<br>
 [经典排序算法 JAVA实现](https://www.cnblogs.com/guoyaohua/p/8600214.html)<br>
+</p></details>
+
+<details><summary>App Inventor</summary><p>
+   
+[App inventor Mole Mash project](http://appinventor.mit.edu/explore/ai2/molemash.html)<br>
+[App inventor: How do you record information in a list?](http://www.appinventor.org/content/howDoYou/RecordingInfo/notes)<br>
+[How do you record items in a list in App Inventor?](https://www.youtube.com/watch?v=aiFrwX7M4vc)<br>
+[App Inventor 2 Tutorial Canvas image HD](https://www.youtube.com/watch?v=TE-1mzvvk40)<br>
 </p></details>
 
 <details><summary>Github</summary><p>
