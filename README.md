@@ -157,6 +157,13 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [怎么在 GitHub上面找项目](https://mp.weixin.qq.com/s/_DJPf6L9XViT_siyShwvMQ)<br>
 </p></details>
 
+<details><summary>Job</summary><p>
+     
+[Job Tips](https://npu85.npu.edu/~henry/npu/classes/capstone/job/slide/job.pdf)<br>
+[Sample resume](https://npu85.npu.edu/~henry/npu/classes/capstone/job/slide/index_slide.html)<br>
+</p></details>
+
+
 <details><summary>Tool</summary><p>
       
 [Jdoodle - Online Compiler](https://www.jdoodle.com/online-java-compiler/)<br>
