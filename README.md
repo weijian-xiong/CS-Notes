@@ -98,6 +98,10 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 [Login credentials not working with Gmail SMTP](https://stackoverflow.com/questions/16512592/login-credentials-not-working-with-gmail-smtp)<br>
 </p></details>
 
+<details><summary>Not installing pip on ubuntu 20.04</summary><p>
+https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
+</p></details>
+
 [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
 [How to verify reCAPTCHA - Python](https://techmonger.github.io/5/python-flask-recaptcha/)<br>
 
