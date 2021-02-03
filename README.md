@@ -101,6 +101,7 @@ https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
 
 [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
 [How to verify reCAPTCHA - Python](https://techmonger.github.io/5/python-flask-recaptcha/)<br>
+[How to Fix Cron Permission Issues in MacOS Catalina & Mojave](https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/)<br>
 
 ## Related Link
 
