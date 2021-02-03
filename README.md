@@ -35,9 +35,6 @@ Mounty for NTFS:
 ```
 brew cask install mounty
 ```
-[Install Node.js on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-18-04)<br>
-[Homebrew](https://brew.sh/)<br>
-[VirtualBox - Ubuntu](https://blog.csdn.net/u012732259/article/details/70172704)<br>
 [ngrok - secure introspectable tunnels to localhost](https://ngrok.com/)<br>
 
 ## Other
