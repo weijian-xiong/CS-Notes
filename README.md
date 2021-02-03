@@ -173,7 +173,7 @@ https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
 [Creately - Online diagrams tool](https://app.creately.com/)<br>
 </p></details>
 
-# Github Project
+## Github Project
 
 <details><summary>Interview</summary><p>
      
