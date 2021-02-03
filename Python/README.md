@@ -28,3 +28,6 @@ sudo python -m pip install < package name >
 [How to print colored text in Python?](https://stackoverflow.com/questions/287871/how-to-print-colored-text-in-python)<br>
 [17个Python的骚操作](https://mp.weixin.qq.com/s/8ye-HvILS22BWfHolSq56Q)<br>
 [给Python代码加上酷炫进度条的几种姿势](https://mp.weixin.qq.com/s?__biz=MzA3MTg4NjY4Mw==&mid=2457306962&idx=3&sn=49c19d6d777113f5de2ef30da43b71b7&chksm=88a59566bfd21c70a356cc0ee182b6f1040ed4173657e109542d0f62a45df0cde7f846774e44&mpshare=1&scene=24&srcid=&sharer_sharetime=1591575499640&sharer_shareid=5248b642421520dc17bbeaa482b77f50#rd)<br>
+
+# Github Project
+[Python 100 days](https://github.com/jackfrued/Python-100-Days)<br>
