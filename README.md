@@ -175,3 +175,29 @@ https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
 [Diagrams - Online diagrams tool](https://app.diagrams.net/)<br>
 [Creately - Online diagrams tool](https://app.creately.com/)<br>
 </p></details>
+
+# Github Project
+
+<details><summary>Interview</summary><p>
+     
+[Awesome Interview](https://github.com/MaximAbramchuck/awesome-interview-questions)<br>
+[大厂Interview](https://github.com/0voice/interview_internal_reference)<br>
+[算法面试](https://github.com/geekxh/hello-algorithm)<br>
+     
+</p></details>
+
+
+<details><summary>Notes</summary><p>
+     
+[CS Notes](https://github.com/CyC2018/CS-Notes)<br>
+[Waking Up](https://github.com/wolverinn/Waking-Up)<br>
+     
+</p></details>
+
+<details><summary>Mix</summary><p>
+     
+[Folio 2019](https://github.com/brunosimon/folio-2019)<br>
+[Pornhub Logo](https://github.com/bestony/logoly)<br>
+[免费中文编程书籍](https://github.com/justjavac/free-programming-books-zh_CN)<br>
+
+</p></details>
