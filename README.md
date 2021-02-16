@@ -1,5 +1,3 @@
-# Coding Notes 
-
 ## MacOS
 <details><summary>Customize zsh</summary><p>
      
