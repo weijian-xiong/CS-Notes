@@ -1,6 +1,6 @@
-# A collection of useful Coding Notes 
+# Coding Notes 
 
-## MacOS Terminal
+## MacOS
 <details><summary>Customize zsh</summary><p>
      
 |Shell  |zsh         | bash              |
