@@ -95,6 +95,16 @@ Step 2: [Link for Allowing less secure apps](https://myaccount.google.com/u/1/le
 https://askubuntu.com/questions/1254309/not-installing-pip-on-ubuntu-20-04
 </p></details>
 
+<details><summary>E: Unable to locate package python-pip” on Ubuntu 18.04</summary><p>
+     
+```
+sudo apt-get install software-properties-common
+sudo apt-add-repository universe
+sudo apt-get update
+sudo apt-get install python-pip
+```
+</p></details>
+
 [How to use reCAPTCHA on localhost](https://stackoverflow.com/questions/3232904/using-recaptcha-on-localhost)<br>
 [How to verify reCAPTCHA - Python](https://techmonger.github.io/5/python-flask-recaptcha/)<br>
 [How to Fix Cron Permission Issues in MacOS Catalina & Mojave](https://osxdaily.com/2020/04/27/fix-cron-permissions-macos-full-disk-access/)<br>
