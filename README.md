@@ -180,29 +180,3 @@ sudo apt-get install python-pip
 [Creately - Online diagrams tool](https://app.creately.com/)<br>
 [Regulex - JavaScript Regular Expression Visualizer](https://jex.im/regulex/#!flags=&re=%5E(a%7Cb)*%3F%24)<br>
 </p></details>
-
-## Github Project
-
-<details><summary>Interview</summary><p>
-     
-[Awesome Interview](https://github.com/MaximAbramchuck/awesome-interview-questions)<br>
-[大厂Interview](https://github.com/0voice/interview_internal_reference)<br>
-[算法面试](https://github.com/geekxh/hello-algorithm)<br>
-     
-</p></details>
-
-
-<details><summary>Notes</summary><p>
-     
-[CS Notes](https://github.com/CyC2018/CS-Notes)<br>
-[Waking Up](https://github.com/wolverinn/Waking-Up)<br>
-     
-</p></details>
-
-<details><summary>Mix</summary><p>
-     
-[Folio 2019](https://github.com/brunosimon/folio-2019)<br>
-[Pornhub Logo](https://github.com/bestony/logoly)<br>
-[免费中文编程书籍](https://github.com/justjavac/free-programming-books-zh_CN)<br>
-
-</p></details>
